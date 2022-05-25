@@ -1,0 +1,45 @@
+button {
+  width: 50px;
+  height: 40px;
+  font-size: large;
+  font-weight: 900;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.increament {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.decreament {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.double {
+  width: max-content;
+  height: 40px;
+  background-color: purple;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
